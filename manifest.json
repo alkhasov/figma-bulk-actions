@@ -1,0 +1,7 @@
+{
+  "name": "Bulk Actions",
+  "id": "749532030027680779",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html"
+}
